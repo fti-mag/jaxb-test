@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mailbox>
+    <message date="2016-04-30">
+        <from>Jani</from>
+        <to>Tove</to>
+        <subject>Reminder</subject>
+        <text>Don't forget me this weekend!</text>
+    </message>
+    <message date="2016-05-13">
+        <from>Jim</from>
+        <to>Cecilie</to>
+        <subject>Homework</subject>
+        <text>Have you done your homework?</text>
+    </message>
+    <message date="2016-12-01">
+        <from>Max</from>
+        <to>Alex</to>
+        <subject>Travel</subject>
+        <text>R U going w/ us?</text>
+    </message>
+</mailbox>

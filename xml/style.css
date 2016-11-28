@@ -1,0 +1,20 @@
+html {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.message {
+	margin: 20px;
+	padding: 10px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 6px 18px rgba(0,0,0,0.3);
+	transition: 0.5s;
+	display: inline-block;
+}
+
+.message:hover {
+	background-color: #AAAAFF;
+}
+
+.date {
+	color: rgba(0,0,0,0.5);
+}
